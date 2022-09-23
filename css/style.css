@@ -61,7 +61,7 @@ body {
   line-height: 1.5;
   color: #6c757d;
   text-align: left;
-  background-color: #092756;
+  background-color: #ffff;
 }
 
 [tabindex="-1"]:focus:not(:focus-visible) {
@@ -2688,10 +2688,7 @@ fieldset:disabled a.btn {
 .btn-outline-primary:not(:disabled):not(.disabled):active, .btn-outline-primary:not(:disabled):not(.disabled).active,
 .show > .btn-outline-primary.dropdown-toggle {
   color: #fff;
-  background-color:-webkit-radial-gradient(0% 100%, ellipse cover, rgba(104,128,138,.4) 10%,rgba(138,114,76,0) 40%),
--webkit-linear-gradient(top, rgba(57,173,219,.25) 0%,rgba(42,60,87,.4) 100%),
--webkit-linear-gradient(-45deg, #670d10 0%,#092756 100%)
-  border-color: #0BCEAF;
+  background-color:#fff;
 }
 
 .btn-outline-primary:not(:disabled):not(.disabled):active:focus, .btn-outline-primary:not(:disabled):not(.disabled).active:focus,
